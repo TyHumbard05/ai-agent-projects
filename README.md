@@ -1,5 +1,7 @@
 # AI Agent Projects
 
+![CI](https://github.com/TyHumbard05/ai-agent-projects/actions/workflows/tests.yml/badge.svg)
+
 A collection of small, focused AI-agent experiments built to explore practical patterns such as structured outputs, task decomposition, tool routing, validation, and safe execution.
 
 Rather than putting everything into one large chatbot, each folder isolates one agent pattern so the behavior is easier to understand, test, and improve.
